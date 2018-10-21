@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0,BeinSport1 512 KBB
-http://2111.space:25461/live/admin_967202/pAzpNNgr/1336.ts
+
 #EXTINF:0,BeinSport2 512 KBB
 http://2111.space:25461/live/admin_967202/pAzpNNgr/1335.ts
 #EXTINF:0,BeinSport3 512 KBB
@@ -708,12 +707,7 @@ http://2111.space:25461/live/admin_553514/LxjX3IXA/1298.ts
 #EXTINF:0,BeinSport10 4KB PLUSE
 http://2111.space:25461/live/admin_553514/LxjX3IXA/1297.ts
 #EXTINF:0,(AR) BeIN Sports 9 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/779.ts
-#EXTINF:0,(AR) BeIN Sports 9
-http://163.172.211.229:8000/live/beintst/beintesrt/778.ts
-#EXTINF:0,(AR) BeIN Sports 8 HD
-http://163.172.211.229:8000/live/beintst/beintesrt/777.ts
-#EXTINF:0,(AR) BeIN Sports 8
+
 http://163.172.211.229:8000/live/beintst/beintesrt/776.ts
 #EXTINF:0,(AR) BeIN Sports 7 HD
 http://163.172.211.229:8000/live/beintst/beintesrt/775.ts
@@ -740,8 +734,7 @@ http://163.172.211.229:8000/live/beintst/beintesrt/765.ts
 #EXTINF:0,(AR) BeIN Sports 2
 http://163.172.211.229:8000/live/beintst/beintesrt/764.ts
 #EXTINF:0,(AR) BeIN Sports 12 HD (EN)
-http://163.172.211.229:8000/live/beintst/beintesrt/784.ts
-#EXTINF:0,(AR) BeIN Sports 11 HD  (EN)
+
 http://163.172.211.229:8000/live/beintst/beintesrt/783.ts
 #EXTINF:0,(AR) BeIN Sports 11 (EN)
 http://163.172.211.229:8000/live/beintst/beintesrt/782.ts
